@@ -1,0 +1,10 @@
+# PyTorch with CUDA 11.8 support -- Comment this if NVIDIA GPU is not available
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+transformers
+opencv-python-headless
+pybullet
+numpy
+matplotlib
